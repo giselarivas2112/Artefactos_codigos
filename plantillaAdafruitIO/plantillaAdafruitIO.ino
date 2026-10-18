@@ -36,7 +36,7 @@
 // Adafruit IO Account Configuration
 // (to obtain these values, visit https://io.adafruit.com and click on Active Key)
 #define AIO_USERNAME "gisgis"
-#define AIO_KEY      "aio_rluv21bltvNXX6lZLKqrBQweeWNl"
+#define AIO_KEY      ""
 
 /************ Global State (you don't need to change this!) ******************/
 
