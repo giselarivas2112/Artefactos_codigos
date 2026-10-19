@@ -1,3 +1,7 @@
+//parte plana viendo hacia mi
+//izquierda 3V3
+//en medio a un pin ADC
+//derecha GND 
 const int LM35_PIN1 = 2;
 const int LM35_PIN2 = 4;
 

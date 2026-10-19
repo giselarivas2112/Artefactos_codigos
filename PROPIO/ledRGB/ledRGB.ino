@@ -1,4 +1,5 @@
-
+//cada color - resistencia 330 ohms - pin digital
+//catodo es el más largo - GND
 const int ROJO = 27;
 const int VERDE = 26;
 const int AZUL = 25;

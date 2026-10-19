@@ -1,4 +1,5 @@
-
+//positivo es el más largo - resistencia de 330 ohms - D32
+//Negativo - GND
 const int LED = 32;
 
 void setup() {

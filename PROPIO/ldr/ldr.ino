@@ -1,4 +1,5 @@
-
+//una pata al 3V3
+//Otra pata en una misma fila - Pin ADC y resistencia  10K ohms - de la pata de la resistencia GND
 const int LDR_PIN = 35;
 
 void setup() {
